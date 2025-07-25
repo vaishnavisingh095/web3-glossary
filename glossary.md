@@ -31,3 +31,54 @@ The design of a cryptocurrency's economic system, including supply, distribution
 
 ## 🗳️ Governance Token
 A token that gives holders voting rights in protocol decisions and community proposals.
+
+## 🧭 What is a Block Explorer?
+A Block Explorer is like a public search engine for blockchain networks. It lets you track everything happening on a blockchain — in real time.
+
+Think of it like this:
+
+If the blockchain is a digital highway of transactions, a block explorer is your Google Maps.
+
+With a block explorer, you can:
+
+🔍 Search wallet addresses (to view balances & history)
+
+📦 View individual blocks (group of transactions)
+
+🔗 See transaction details (like sender, receiver, gas fee, status)
+
+🧠 Understand what’s happening “under the hood” of a blockchain
+
+💡 Popular Block Explorers:
+
+Etherscan – for Ethereum
+
+Polygonscan – for Polygon
+
+Arbiscan – for Arbitrum
+
+## 🧠 What is Zero Knowledge (ZK)?
+Zero Knowledge (or ZK) is a powerful cryptographic method where:
+
+You can prove something is true without revealing any other information.
+
+Imagine this:
+You want to prove you’re over 18 without showing your birthdate or ID.
+ZK proofs make that possible on the blockchain.
+
+🔐 In Web3, ZK is used to:
+
+✅ Prove identity privately
+
+⚡ Verify transactions fast & securely
+
+🔎 Reduce on-chain data exposure
+
+There are two main uses:
+
+ZK-Rollups: Scale Layer 2 chains (e.g., zkSync, Starknet)
+
+ZK Proofs: Privacy-preserving protocols (e.g., Zcash)
+
+🌀 Zero Knowledge = Privacy + Scalability
+

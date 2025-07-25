@@ -85,3 +85,8 @@ ZK Proofs: Privacy-preserving protocols (e.g., Zcash)
 
 ## L2 Scaling
 Layer 2 (L2) scaling refers to solutions built on top of Ethereum that help it process more transactions faster and cheaper. Examples include Optimism and Arbitrum.
+
+Optimistic Rollups: Assume transactions are correct and only check if someone challenges them.
+
+ZK (Zero-Knowledge) Rollups: Use cryptographic proofs to verify transactions instantly.
+

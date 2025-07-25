@@ -1,9 +1,8 @@
 # web3-glossary
-A simple, beginner-friendly glossary to understand essential concepts in Web3, Blockchain, DAOs, DeFi, and Smart Contracts.
+This glossary is created to help people understand web3 in clearer , and simpler way . Many important concept like DAOs , DeFi , Protocols , NFTs , Chainlink ,Coinbase and Ethereum are still misunderstood or unknown to many. 
+My aim is to help DAOs , bulders and founder with better Governance and Onboarding . 
+Because in a space as fast evolving as WEB3 Clarity beats Complexity.
+I’m taking a stand to make Web3 easier than ever.
 
-This repo is part of my journey to build clarity in Web3 writing and documentation.
-It is designed to help writers, researchers, and learners grasp core terms and explain them simply.
 
- ## Why This Exists:
-Good writing in Web3 starts with understanding.
-This glossary helps me (and hopefully others) balance technical accuracy with simple explanations.
+

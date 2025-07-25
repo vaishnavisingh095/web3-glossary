@@ -29,6 +29,7 @@ git add .
 git commit -m "Updated glossary with new terms"
 git push
 
-
+Stage the Changes
+"Telling Git which files you want to save.
 
 
